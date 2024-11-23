@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Md Jahid Hasan.  I am currently working as a Software Engineer for [Enosis Solution](https://www.enosisbd.com/)
-- 👀 I’m interested in problem solving, 2D animation and Machine Learning
+- 👋 Hi, I’m Md Jahid Hasan.  I am currently working as a Senior Software Engineer for [Enosis Solution](https://www.enosisbd.com/)
+- 👀 I’m interested in problem-solving, 2D animation, and Machine Learning
 - 📫 Reach me at <br><br>
    [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hasanjahidcsedu2698)<br>
    [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanjahid2698/)<br>
