@@ -6,10 +6,21 @@
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](hasanjahid2698@gmail.com)<br>
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahid-hasan-60048917a/)
   
+<img alt="GIF" src="Working.gif?raw=true" width="50%"/> 
+
+<hr/>
+
+### Skills
+<p align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,kotlin,py,css,html,js,jquery,bootstrap,aws,azure,django,mysql,cassandra,sqlite,git,github,postman,latex,md&perline=11)](https://skillicons.dev)
+         
+</p>
+<hr/>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=hasanjahid2698&show_icons=true&theme=dracula&layout=compact" width="50%"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanjahid2698&layout=compact&theme=gotham" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanjahid2698&layout=compact&theme=gotham" width="50%" />
 </p>
 <!---
 hasanjahid2698/hasanjahid2698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
